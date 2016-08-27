@@ -54,7 +54,8 @@ Matheus Almeida
 
 ##### Professional Experience
 
-| Year | Position                     | Enterprise                 |
+| Year | Position                     | Contractor                 |
 | :--: | :----------------------------|:-------------------------- |
-| 2014 | Municipal Services Assistant | Jacareí Mayor              |
-| 2013 | Process and Business Agent   | Tivit                      |
+| 2016 | Social Media Manager         | [Blog do Neir/Neir Coelho](http://blogdoneir.com.br/) |
+| 2014 | Municipal Services Assistant | [Jacareí Mayor](http://www.jacarei.sp.gov.br/)        |
+| 2013 | Process and Business Agent   | [Tivit](http://www.tivit.com.br/)                     |
