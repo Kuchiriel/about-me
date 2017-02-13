@@ -3,9 +3,7 @@ Matheus Almeida
 >
     * Technical in Computer Network.
     * Attending Analysis and Systems Development.
-    * Enthusiast in security information and web development. 
     * Interested in artificial intelligence systems, especially natural interaction with the machine. 
-    * It has one foot in psychology.
 
 #### matheus.almeida@techie.com | based in Jacareí/SP - Brazil
 
@@ -16,20 +14,12 @@ Matheus Almeida
 
 ##### Programming Languages
 > 
-    * C, C++, C#, PHP, Node, Java, Python, Shell Script and VisualBasic [.NET].
+    * C, C++, PHP, Node, Java, Python, Shell Script and .NET
 
-##### Markup, Style and Serialization Languages
+##### Markup, Style, Serialization and Other Languages
 >
-    * Markdown, AIML, Rivescript, HTML, XML, CSS and JSON.
+    * Markdown, AIML, Rivescript, HTML, CSS and JSON.
 
-##### Database Management Systems
->
-    * MS-Access, MySQL and Redis
-
-##### Development for Operating Systems
->
-    * Unix-based, Windows Desktop & Metro and Android.
-    
 ##### Computer Network
 >
     * Installation of TCP / IP (Structured Cabling, Wireless Networks and Network Security)
@@ -41,17 +31,16 @@ Matheus Almeida
 >
     * Evaluation, installation and maintenance of computers (Hardware)
     * Virtualization (Hyper-V, QEMU, Virtual Box and VMWare)
-    * Auditing and intrusion testing (Backtrack R3, BlackArch and Kali Linux)
     * Graphic Design and Imaging (Fireworks)
     * Advanced Arch Linux User
     * Enthusiast in Electronics
+    * Enthusiast in Information Security
     
 ##### Languages
 >
     * Portuguese (native)
     * English (intermediate)
-    * German (beginner)
-
+    
 ##### Professional Experience
 
 | Year | Position                     | Contractor                 |
