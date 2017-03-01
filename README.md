@@ -3,13 +3,10 @@ Matheus Almeida
 >
     * Technical in Computer Network.
     * Attending Analysis and Systems Development.
-    * Interested in artificial intelligence systems, especially natural interaction with the machine. 
 
 #### matheus.almeida@techie.com | based in Jacareí/SP - Brazil
 
-* [Git](https://github.com/Kuchiriel)
 * [LinkedIn](https://goo.gl/bbhRPB)
-* [G+](https://goo.gl/7V6KI5)
 * [Lattes](http://goo.gl/fZGbEL)
 
 ##### Programming Languages
