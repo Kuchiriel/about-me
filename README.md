@@ -33,6 +33,7 @@ Matheus Almeida
     * Advanced Arch Linux User
     * Enthusiast in Electronics
     * Enthusiast in Information Security
+    * Enthusiast in Science
     
 ##### Languages
 >
