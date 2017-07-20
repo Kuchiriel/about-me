@@ -11,7 +11,7 @@ Matheus Almeida
 
 ##### Programming Languages
 > 
-    * C, C++, PHP, Node, Java, Python, Shell Script and .NET
+    * Node, JavaScript, Java, Python, Shell Script and .NET
 
 ##### Markup, Style, Serialization and Other Languages
 >
@@ -26,6 +26,7 @@ Matheus Almeida
     
 ##### Other
 >
+    * DevOps (scalable, fault tolerant and high performance infrastructure)
     * Evaluation, installation and maintenance of computers (Hardware)
     * Virtualization (Hyper-V, QEMU, Virtual Box and VMWare)
     * Graphic Design and Imaging (Fireworks)
@@ -42,6 +43,7 @@ Matheus Almeida
 
 | Year | Position                     | Contractor                 |
 | :--: | :----------------------------|:-------------------------- |
+| 2017 | Full Stack Developer         | [Escola Zion](http://www.escolazion.com/)             |
 | 2016 | Social Media Manager         | [Blog do Neir/Neir Coelho](http://blogdoneir.com.br/) |
 | 2014 | Municipal Services Assistant | [Jacareí Mayor](http://www.jacarei.sp.gov.br/)        |
 | 2013 | Process and Business Agent   | [Tivit](http://www.tivit.com.br/)                     |
