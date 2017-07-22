@@ -1,8 +1,8 @@
 Matheus Almeida
 ===============
 >
-    * Technical in Computer Network.
-    * Attending Analysis and Systems Development.
+    * Technical in Computer Network
+    * Attending Analysis and Systems Development
 
 #### matheus.almeida@techie.com | based in Jacareí/SP - Brazil
 
@@ -15,7 +15,7 @@ Matheus Almeida
 
 ##### Markup, Style, Serialization and Other Languages
 >
-    * Markdown, AIML, Rivescript, HTML, CSS and JSON.
+    * Markdown, AIML, Rivescript, HTML, CSS and JSON
 
 ##### Computer Network
 >
@@ -42,8 +42,8 @@ Matheus Almeida
     
 ##### Professional Experience
 
-| Year | Position                     | Contractor                 |
-| :--: | :----------------------------|:-------------------------- |
+| Year | Position                     | Contractor                                            |
+| :--: | :--------------------------: | :---------------------------------------------------: |
 | 2017 | Full Stack Developer         | [Escola Zion](http://www.escolazion.com/)             |
 | 2016 | Social Media Manager         | [Blog do Neir/Neir Coelho](http://blogdoneir.com.br/) |
 | 2014 | Municipal Services Assistant | [Jacareí Mayor](http://www.jacarei.sp.gov.br/)        |
