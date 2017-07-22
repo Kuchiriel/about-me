@@ -42,9 +42,9 @@ Matheus Almeida
     
 ##### Professional Experience
 
-| Year | Position                     | Contractor                                            |
-| :--: | :--------------------------: | :---------------------------------------------------: |
-| 2017 | Full Stack Developer         | [Escola Zion](http://www.escolazion.com/)             |
-| 2016 | Social Media Manager         | [Blog do Neir/Neir Coelho](http://blogdoneir.com.br/) |
-| 2014 | Municipal Services Assistant | [Jacareí Mayor](http://www.jacarei.sp.gov.br/)        |
-| 2013 | Process and Business Agent   | [Tivit](http://www.tivit.com.br/)                     |
+| Year | Position                     | Contractor                                                      |
+| :--: | :--------------------------: | :-------------------------------------------------------------: |
+| 2017 | Full Stack Developer         | [Escola Zion](http://www.escolazion.com/)                       |
+| 2016 | Social Media Manager         | [Blog do Neir/Neir Coelho](https://www.facebook.com/neircoeho/) |
+| 2014 | Municipal Services Assistant | [Jacareí Mayor](http://www.jacarei.sp.gov.br/)                  |
+| 2013 | Process and Business Agent   | [Tivit](http://www.tivit.com.br/)                               |
