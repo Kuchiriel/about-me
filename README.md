@@ -2,7 +2,7 @@ Matheus Almeida
 ===============
 >
     * Technical in Computer Network
-    * Attending Analysis and Systems Development
+    * Attending Analysis and Systems Development (dropped)
 
 #### matheus.almeida@techie.com | based in Jacareí/SP - Brazil
 
