@@ -23,10 +23,10 @@ Matheus Almeida
     * Analysis and network design (Documentation and Plants)
     * Servers (Windows and Linux: Active Directory, DHCP, DNS, Printing, Web Server, Proxy and Firewall)
     * Strong knowledge of MS-ISA Server and MS Forefront TMG 2010
-    
+        
 ##### Other
 >
-    * DevOps (scalable, fault tolerant and high performance infrastructure)
+    * DevOps (scalable, fault tolerant and high performance infrastructure. CoreOS, Docker Compose and Rkt)
     * Evaluation, installation and maintenance of computers (Hardware)
     * Virtualization (Hyper-V, QEMU, Virtual Box and VMWare)
     * Graphic Design and Imaging (Fireworks)
@@ -39,6 +39,7 @@ Matheus Almeida
 >
     * Portuguese (native)
     * English (intermediate)
+    * German (beginner)
     
 ##### Professional Experience
 
