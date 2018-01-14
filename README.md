@@ -2,8 +2,8 @@ Matheus Almeida
 ===============
 >
     * Technical in Computer Network
-    * Attending Analysis and Systems Development (Fatec / Jacareí) (dropped)
-    * Attending Analysis and Systems Development (ETEP / Jacareí) (dropped)
+    * Attending Analysis and Systems Development (Fatec/Jacareí) (dropped)
+    * Attending Analysis and Systems Development (ETEP/Jacareí) (dropped)
     
 #### matheus.almeida@techie.com | based in Jacareí/SP - Brazil
 
@@ -27,7 +27,7 @@ Matheus Almeida
         
 ##### Other
 >
-    * DevOps (scalable, fault tolerant and high performance infrastructure. CoreOS, Docker Compose and Rkt)
+    * DevOps (Scalable, fault tolerant and high performance infrastructure. CoreOS, Docker Compose and Rkt)
     * Evaluation, installation and maintenance of computers (Hardware)
     * Virtualization (Hyper-V, QEMU, Virtual Box and VMWare)
     * Graphic Design and Imaging (Fireworks)
