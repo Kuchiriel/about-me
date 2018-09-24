@@ -23,6 +23,7 @@ Matheus Almeida
     * Ramda.js
     * Hapi.js
     * Vue.js
+    * Nuxt.js
 
 ##### Computer Network
 >
