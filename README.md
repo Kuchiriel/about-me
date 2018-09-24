@@ -16,7 +16,7 @@ Matheus Almeida
 
 ##### Markup, Style, Serialization and Other Languages
 >
-    * Markdown, AIML, Rivescript, HTML5, CSS3 and JSON
+    * Bulma, Markdown, AIML, Rivescript, HTML5, CSS3 and JSON
     
 ##### Libraries
 >
