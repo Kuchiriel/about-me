@@ -16,7 +16,7 @@ Matheus Almeida
 
 ##### Markup, Style, Serialization and Other Languages
 >
-    * Bulma, Markdown, AIML, Rivescript, HTML5, CSS3 and JSON
+    * Bulma, Pug, Markdown, AIML, Rivescript, HTML5, CSS3 and JSON
     
 ##### Libraries
 >
@@ -24,6 +24,13 @@ Matheus Almeida
     * Hapi.js
     * Vue.js
     * Nuxt.js
+
+### Tooling
+>
+    * WebPack
+    * Docker-Compose
+    * Shell Script Optimizations
+    * CoreOS
 
 ##### Computer Network
 >
@@ -46,13 +53,15 @@ Matheus Almeida
 ##### Languages
 >
     * Portuguese (native)
-    * English (intermediate)
+    * English (advanced)
+    * Spanish (intermediary)
     * German (beginner)
     
 ##### Professional Experience
 
 | Year | Position                     | Contractor                                                      |
 | :--: | :--------------------------: | :-------------------------------------------------------------: |
+| 2018 | CEO                          | [µTech](https://www.linkedin.com/in/matheus-almeida-81174a69)   |
 | 2017 | Full Stack Developer         | [Escola Zion](http://www.escolazion.com/)                       |
 | 2016 | Social Media Manager         | [Blog do Neir/Neir Coelho](https://www.facebook.com/neircoeho/) |
 | 2014 | Municipal Services Assistant | [Jacareí Mayor](http://www.jacarei.sp.gov.br/)                  |
