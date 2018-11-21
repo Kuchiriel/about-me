@@ -66,5 +66,3 @@ Matheus Almeida
 | 2016 | Social Media Manager         | [Blog do Neir/Neir Coelho](https://www.facebook.com/neircoeho/) |
 | 2014 | Municipal Services Assistant | [Jacareí Mayor](http://www.jacarei.sp.gov.br/)                  |
 | 2013 | Process and Business Agent   | [Tivit](http://www.tivit.com.br/)                               |
-
-You can also take a look on [my personal goals](https://github.com/Kuchiriel/personal-goals)
