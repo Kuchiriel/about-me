@@ -121,7 +121,7 @@ facebook.com/yourmicrotech
 
 | Year | Position                     | Contractor                                                      |
 | :--: | :--------------------------: | :-------------------------------------------------------------: |
-| 2019 | I.I Analyst                  | [Stefanini IT Solutions](stefanini.com)                         |
+| 2019 | IT Analyst                  | [Stefanini IT Solutions](stefanini.com)                         |
 | 2018 | CEO                          | [µTech](https://www.linkedin.com/in/matheus-almeida-81174a69)   |
 | 2017 | Full Stack Developer         | [Escola Zion](http://www.escolazion.com/)                       |
 | 2016 | Social Media Manager         | [Blog do Neir/Neir Coelho](https://www.facebook.com/neircoeho/) |
